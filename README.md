@@ -29,4 +29,4 @@
 - 🎓 Estudante de Sistemas de informações Bacharelado, atualmente no 1º Semestre
 - 💻 Interesse JavaScript, React, HTML e CSS
 - 🕹  Adoro jogar MOBAS, FPS e RPG 
-- 👨‍💻 Pretendo me tornar fullstack em JavaScript
+- 👨‍💻 Pretendo me tornar um grande Desenvolvedor!
