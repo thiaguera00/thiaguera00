@@ -27,6 +27,6 @@
  
 ## Curiosidades
 - 🎓 Estudante de Sistemas de informações Bacharelado, atualmente no 2º Semestre
-- 💻 Interesse JavaScript, React, HTML e CSS
+- 💻 Focado em aprender tecnologias aplicadas no Back PHP e node.
 - 🕹  Adoro jogar MOBAS, FPS e RPG 
 - 👨‍💻 Pretendo me tornar um grande Desenvolvedor!
