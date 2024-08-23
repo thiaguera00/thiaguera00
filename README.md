@@ -29,7 +29,7 @@
  </div> 
  
 ## Curiosidades
-- 🎓 Estudante de Sistemas de informações Bacharelado, atualmente no 6º Semestre
+- 🎓 Estudante de Sistemas de informações Bacharelado, atualmente no 7º Semestre
 - 💻 Focado em aprender tecnologias aplicadas no Front e Back.
 - 🕹  Adoro jogar MOBAS, FPS e RPG 
 - 👨‍💻 Pretendo me tornar um grande Desenvolvedor!
