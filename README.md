@@ -33,6 +33,6 @@
  
 ## Curiosidades
 - 🎓 Formado em Sistemas de informações.
-- 💻 Focado em aprender tecnologias aplicadas no Front e Back.
+- 💻 Focado em aprender tecnologias aplicadas no Front, Back e IA.
 - 🕹  Adoro jogar MOBAS, FPS e RPG 
 - 👨‍💻 Pretendo me tornar um grande Desenvolvedor!
