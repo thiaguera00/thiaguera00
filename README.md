@@ -1,33 +1,49 @@
-## Olá! Eu sou o Thiago 
+## Hello! I'm Thiago 🖐
  
-  <div>
-  <a href="https://github.com/thiaguera00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiaguera00&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguera00&layout=compact&langs_count=7&theme=dark" />
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiaguera00&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=thiaguera00&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=thiaguera00&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
+## Trophy for fun
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thiaguera00&margin-w=12&margin-h=5&count_private=true&theme=nord" />
+</p>
+
+
+## Skills
+
+### Languages
+![Kotlin](https://img.shields.io/badge/-Kotlin-A97BFF?style=for-the-badge&logo=kotlin&logoColor=fff)
+![Go](https://img.shields.io/badge/-Go-29a7f5?style=for-the-badge&logo=Go&logoColor=fff)
+![PHP](https://img.shields.io/badge/-PHP-210b85?style=for-the-badge&logo=PHP&logoColor=fff)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-typescript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776ab?style=for-the-badge&logo=python&logoColor=fff)
+
+### Backend
+![Spring Boot](https://img.shields.io/badge/-spring%20boot-6DB33F?style=for-the-badge&logo=spring&logoColor=fff)
+![Django](https://img.shields.io/badge/-django-092E20?style=for-the-badge&logo=django&logoColor=fff)
+![FastAPI](https://img.shields.io/badge/-fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=fff)
+![Nest.js](https://img.shields.io/badge/-nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Laravel](https://img.shields.io/badge/-laravel-ED2E03?style=for-the-badge&logo=laravel&logoColor=fff)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=fff)
+![Next.js](https://img.shields.io/badge/-nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=fff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=fff)
+![Redis](https://img.shields.io/badge/-redis-FF4438?style=for-the-badge&logo=redis&logoColor=fff)
+![Postgres](https://img.shields.io/badge/-postgres-232F3E?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![RabbitMQ](https://img.shields.io/badge/-rabbitmq-F27E00?style=for-the-badge&logo=rabbitmq&logoColor=fff)
  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />   
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="Go" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
- </div>
- 
- ##
- 
- <div>
-  <a href= "https://www.linkedin.com/in/thiago-caetano-749354217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
- </div> 
- 
-## Curiosidades
-- 🎓 Formado em Sistemas de informações.
-- 💻 Focado em aprender tecnologias aplicadas no Front, Back e IA.
-- 🕹  Adoro jogar MOBAS, FPS e RPG 
-- 👨‍💻 Pretendo me tornar um grande Desenvolvedor!
